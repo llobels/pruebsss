@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="La 1" tvg-name="ES: La 1" tvg-logo="http://logos.switchtv.net/url/es/la1.jpg" group-title="ESPAÑOL",ES: La 1
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/284
+#EXTINF:-1 tvg-id="La 2" tvg-name="ES: La 2" tvg-logo="http://logos.switchtv.net/url/es/la2.jpg" group-title="ESPAÑOL",ES: La 2
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/285
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ES: Antena 3" tvg-logo="http://logos.switchtv.net/url/es/antena3.jpg" group-title="ESPAÑOL",ES: Antena 3
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/286
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="ES: Cuatro" tvg-logo="http://logos.switchtv.net/url/es/cuatro.jpg" group-title="ESPAÑOL",ES: Cuatro
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/287
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="ES: Telecinco" tvg-logo="http://logos.switchtv.net/url/es/telecinco.jpg" group-title="ESPAÑOL",ES: Telecinco
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/288
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="ES: La Sexta" tvg-logo="http://logos.switchtv.net/url/es/la_sexta.jpg" group-title="ESPAÑOL",ES: La Sexta
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/289
+#EXTINF:-1 tvg-id="Nova" tvg-name="ES: Nova" tvg-logo="http://logos.switchtv.net/url/es/nova.jpg" group-title="ESPAÑOL",ES: Nova
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/290
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES: M+ Vamos" tvg-logo="" group-title="ESPAÑOL",ES: M+ Vamos
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/291
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="ES: Disney Channel" tvg-logo="http://logos.switchtv.net/url/es/disney_channel.jpg" group-title="ESPAÑOL",ES: Disney Channel
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/292
+#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="ES: Disney Junior" tvg-logo="http://logos.switchtv.net/url/es/disney_junior.jpg" group-title="ESPAÑOL",ES: Disney Junior
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/293
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="ES: Nickelodeon" tvg-logo="http://logos.switchtv.net/url/es/nickelodeon.jpg" group-title="ESPAÑOL",ES: Nickelodeon
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/294
+#EXTINF:-1 tvg-id="La 1" tvg-name="ES: La Liga TV" tvg-logo="http://logos.switchtv.net/url/es/la_liga_tv.jpg" group-title="ESPAÑOL",ES: La Liga TV
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/295
+#EXTINF:-1 tvg-id="Gol TV" tvg-name="ES: Gol TV" tvg-logo="http://logos.switchtv.net/url/es/gol_tv.jpg" group-title="ESPAÑOL",ES: Gol TV
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/296
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="ESPAÑOL",ES: DAZN 1
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/297
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="ES: Atreseries" tvg-logo="" group-title="ESPAÑOL",ES: Atreseries
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/298
+#EXTINF:-1 tvg-id="Eurosport ES" tvg-name="ES: Eurosport 1" tvg-logo="http://logos.switchtv.net/url/es/eurosport.jpg" group-title="ESPAÑOL",ES: Eurosport 1
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/299
+#EXTINF:-1 tvg-id="M+ Accion" tvg-name="ES: M+ Acción" tvg-logo="http://logos.switchtv.net/url/es/m_accion.jpg" group-title="ESPAÑOL",ES: M+ Acción
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/301
+#EXTINF:-1 tvg-id="La 1" tvg-name="ES: M+ Drama" tvg-logo="" group-title="ESPAÑOL",ES: M+ Drama
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/310
+#EXTINF:-1 tvg-id="M+ DCine" tvg-name="ES: M+ DCine Ñ" tvg-logo="http://logos.switchtv.net/url/es/m_dcine.jpg" group-title="ESPAÑOL",ES: M+ DCine Ñ
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/300
+#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="ES: M+ Comedia" tvg-logo="http://logos.switchtv.net/url/es/m_comedia.jpg" group-title="ESPAÑOL",ES: M+ Comedia
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/302
+#EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="ES: M+ Estrenos" tvg-logo="http://logos.switchtv.net/url/es/m_estrenos.jpg" group-title="ESPAÑOL",ES: M+ Estrenos
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/303
+#EXTINF:-1 tvg-id="La 1" tvg-name="ES: M+ Seriesmanía" tvg-logo="http://logos.switchtv.net/url/es/m_series_xtra.jpg" group-title="ESPAÑOL",ES: M+ Seriesmanía
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/304
+#EXTINF:-1 tvg-id="La 1" tvg-name="ES: M+ #0" tvg-logo="http://logos.switchtv.net/url/es/m_futbol.jpg" group-title="ESPAÑOL",ES: M+ #0
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/305
+#EXTINF:-1 tvg-id="La 1" tvg-name="ES: M+ La Liga" tvg-logo="" group-title="ESPAÑOL",ES: M+ La Liga
+http://my.iptvtuga.com:8080/rbVJkU453M/jqugRTy9jH/323
